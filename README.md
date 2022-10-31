@@ -1,5 +1,5 @@
 # Spreadsheet App
-A spredsheet is represented as a text file with each row of the file corresponding to a row of the spreadsheet.
+A spreadsheet is represented as a text file with each row of the file corresponding to a row of the spreadsheet.
 The information in every row is separated by commas. Within the commas are the values of the cells.
 Any white spaces next to the commas are ignored.
 
